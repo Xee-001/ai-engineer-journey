@@ -1,26 +1,20 @@
-# my_agent
+# AI Engineer Journey 🚀
+Hands-on AI/ML engineer transition journey with daily projects and real-world applications.
 
-Simple scaffold for a Google ADK agent project.
+## What this repo is
+This repository documents my daily, hands-on journey to transition into an AI/ML Engineer.  
+Focuses on building practical skills through real-world datasets, projects, and system-level thinking rather than just theory.
 
-Setup
+## 90-Day Goal
+- Build strong foundations in Machine Learning and Deep Learning  
+- Work on end-to-end projects (EDA → modeling → evaluation → deployment-ready thinking)  
+- Gain practical exposure to LLMs and AI engineering workflows  
+- Be ready for AI/ML Engineer roles
 
-1. Create and activate a virtual environment (Windows PowerShell):
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-2. Install requirements:
-
-```powershell
-pip install -r requirements.txt
-```
-
-Run
-
-```powershell
-python run_agent.py
-```
-
-Replace the scaffold in `src/my_agent` with your real agent code.
+## Tools & Tech
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Git & GitHub
