@@ -1,1 +1,6 @@
 google-adk
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
